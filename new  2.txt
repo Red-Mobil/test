@@ -1,0 +1,27 @@
+LENGUAJES A USAR:	HTML
+					PYTHON
+					JS
+					JAYSON
+
+BD:	MYSQL
+	MONGODB
+					
+CVS *.*
+
+GITHUB	-> HERRAMIENTA DE SINCRONIZACION DE TRABAJO
+GIT		-> HERRAMIENTA DE SINCRONIZACION DE TRABAJO
+
+javascript -> librerias: 	Jquery *.*
+							nootebus
+							extjs
+							
+
+Hola
+
+Tengo entendido que lo que mando Taufik no ha llegado
+Aca va el avance k ha mandado Taufik, index.html
+Y la version prototipo en la cual he estado manejando con una simple funcion php (index.php), la cual es capas de crear de manera automatica paginas simples por el momento, ahora debo trabajar en el ingreso de imagenes para complementar el constructor
+
+Por ultimo de manera de ejemplo les mando el siguiente link, el cual contiene una pagina sencilla la cual ha sido creada usando el editor
+
+http://200.14.84.183/~15996273/prototipo/emi.php
